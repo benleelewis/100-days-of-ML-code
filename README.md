@@ -1,25 +1,46 @@
 # 100-days-of-ML-code
-Sharpen my skills and spend time implementing algorithms and topics learned
+Objective: Consistent, cultivated practice implementing ML algorithms and better software engineering practices in Python and R 
 
 Started 12/30/19
-Day 1: Explained PCA, implemented PCA cluster analysis (project #1)
-Day 2: EDA for salary prediction (project #2) https://github.com/benleelewis/salaryprediction
-Day 3: Random forest and linear regression for salary prediction
-Day 4: Model tweaking Tpot for salary prediction
-Day 5: Kmeans reload with new dataset (project #1)
-Day 6: Lasso/ridge regression for salary prediction (project #1), Feature engineering tricks
-Day 7: Videos on Feature engineering (oreilly), random forest
-Day 8: BigQuery Data Engineering (project #3) - OOP
-Day 9: Jeremy Howard on what makes good data products (https://www.youtube.com/watch?v=vYrWTDxoeGg) + additional BigQuery Data Engineering (r-bigrquery)
-Day 10: K-Means, additional BigRQuery Data enginering (course #1)
+   
+Day 1: Explained PCA to project owner, implemented PCA and K-means cluster analysis (project #1)
 
+Day 2: EDA for [salary prediction](https://github.com/benleelewis/salaryprediction)
 
-Resources
+Day 3: Random forest and linear regression for [salary prediction](https://github.com/benleelewis/salaryprediction)
 
-StatQuest
-O'Reilly reference through GATech
-Pandas for Data Science
-Practical Time Series Analysis
-Hands-On Machine Learning with scikit-learn and Tensowflow
-Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists
-https://www.youtube.com/watch?v=vYrWTDxoeGg
+Day 4: Model tweaking Tpot for [salary prediction](https://github.com/benleelewis/salaryprediction)
+
+Day 5: K-means reload with new dataset (project #1)
+
+Day 6: Lasso/ridge regression for [salary prediction](https://github.com/benleelewis/salaryprediction), Feature engineering tricks
+
+Day 7: Tech Skills Workshops on Feature Engineering and Random Forest
+
+Day 8: BigQuery Data Engineering (project #3) - OOP 
+
+Day 9: [Jeremy Howard on what makes good data products](https://www.youtube.com/watch?v=vYrWTDxoeGg) + additional BigQuery Data Engineering (r-bigrquery)
+
+Day 10: K-Means IYSE6740, additional [bigrquery](https://github.com/r-dbi/bigrquery) Data enginering 
+
+Day 11: Decorator functions, refactor [salary prediction](https://github.com/benleelewis/salaryprediction)
+
+Day 12: EDA on log data, reading up on NLTK and [Natural Language Processing with Python](https://www.nltk.org/book/) 
+
+Day 13: Create balanced_accuracy_score method [ISIC cancer data](https://github.com/benleelewis/ISIC-2019), K-Means HW
+
+## Resources
+
+Georgia Tech OMSA Courses - IYSE6740 (Computational Data Analysis), MGT 6203 (Data Analytics for Business)
+
+[StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) 
+
+[Python for Data Analysis, 2nd Edition](https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
+
+[Practical Time Series Analysis](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/)
+
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+[Feature Engineering for Machine Learning](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
+
+[Natural Language Processing with Python](https://www.nltk.org/book/) 
