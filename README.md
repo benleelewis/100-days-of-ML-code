@@ -17,6 +17,8 @@ Day 6: Lasso/ridge regression for [salary prediction](https://github.com/benleel
 
 Day 7: Tech Skills Workshops on Feature Engineering and Random Forest
 
+1/6/20
+
 Day 8: BigQuery Data Engineering (project #3) - OOP 
 
 Day 9: [Jeremy Howard on what makes good data products](https://www.youtube.com/watch?v=vYrWTDxoeGg) + additional BigQuery Data Engineering (r-bigrquery)
@@ -28,6 +30,8 @@ Day 11: Decorator functions, refactor [salary prediction](https://github.com/ben
 Day 12: EDA on log data, reading up on NLTK and [Natural Language Processing with Python](https://www.nltk.org/book/) 
 
 Day 13: Create balanced_accuracy_score method [ISIC cancer data](https://github.com/benleelewis/ISIC-2019), K-Means HW
+
+Day 14: Implemented K-means HW #1
 
 ## Resources
 
