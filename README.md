@@ -31,7 +31,14 @@ Day 12: EDA on log data, reading up on NLTK and [Natural Language Processing wit
 
 Day 13: Create balanced_accuracy_score method [ISIC cancer data](https://github.com/benleelewis/ISIC-2019), K-Means HW
 
-Day 14: Implemented K-means HW #1
+Day 14: Implemented K-means HW #1, hierarchical agglomerative clustering (ESLR, PRML)
+
+1/13/20
+
+Day 15: Regex/string parsing with Python and nltk
+
+Day 16: Regex/string parsing with Python and nltk, SQL to diagnose a problem
+
 
 ## Resources
 
@@ -48,3 +55,7 @@ Georgia Tech OMSA Courses - IYSE6740 (Computational Data Analysis), MGT 6203 (Da
 [Feature Engineering for Machine Learning](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
 
 [Natural Language Processing with Python](https://www.nltk.org/book/) 
+
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
