@@ -39,6 +39,11 @@ Day 15: Regex/string parsing with Python and nltk
 
 Day 16: Regex/string parsing with Python and nltk, SQL to diagnose a problem
 
+Day 17: Sliding window
+
+Day 18: 6203 material on Regression
+
+Day 19: Dynamic programming, Discussed bias in ML and where how data can be biased 
 
 ## Resources
 
