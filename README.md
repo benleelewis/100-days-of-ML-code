@@ -45,6 +45,20 @@ Day 18: 6203 material on Regression
 
 Day 19: Dynamic programming, Discussed bias in ML and where how data can be biased 
 
+Day 20: K-means, K-medoids implementation, Kaufman and Rousseeuw 1990
+
+Day 21: Accepted to present at QlikWorld 2020 May 11-14! Uses [Qlik Python SSE](https://github.com/nabeel-oz/qlik-py-tools) w/ [Facebook Prophet](https://facebook.github.io/prophet/) to forecast current
+
+Day 22: Qlik SSE presentation
+
+Day 23: Discuss PCA, Qlik SSE presentation
+
+Day 24: Linear regression 6203
+
+Day 25: [Drivetrain Approach](https://www.oreilly.com/radar/drivetrain-approach-data-products/) for loan products and performance
+
+Day 26: [node2vec](https://arxiv.org/pdf/1607.00653.pdf), Spectral Clustering
+
 ## Resources
 
 Georgia Tech OMSA Courses - IYSE6740 (Computational Data Analysis), MGT 6203 (Data Analytics for Business)
