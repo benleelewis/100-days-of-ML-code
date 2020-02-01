@@ -47,7 +47,7 @@ Day 19: Dynamic programming, Discussed bias in ML and where how data can be bias
 
 Day 20: K-means, K-medoids implementation, Kaufman and Rousseeuw 1990
 
-Day 21: Accepted to present at QlikWorld 2020 May 11-14! Uses [Qlik Python SSE](https://github.com/nabeel-oz/qlik-py-tools) w/ [Facebook Prophet](https://facebook.github.io/prophet/) to forecast current
+Day 21: Accepted to present at QlikWorld 2020 May 11-14! Uses [Qlik Python SSE](https://github.com/nabeel-oz/qlik-py-tools) w/ [Facebook Prophet](https://facebook.github.io/prophet/) for NCUA asset forecasts
 
 1/20/20
 
@@ -61,13 +61,23 @@ Day 25: [Drivetrain Approach](https://www.oreilly.com/radar/drivetrain-approach-
 
 Day 26: [node2vec](https://arxiv.org/pdf/1607.00653.pdf), Spectral Clustering
 
-Day 27: Spectral clustering implementation 6740 homework,
+Day 27: Spectral clustering implementation 6740 HW2,
 
-Day 28: Spectral clustering implementation 6740 homework, Linear regression with log transformations HW 6203
+Day 28: Spectral clustering implementation 6740 HW2, Linear regression with log transformations HW1 6203
+
+1/27/20
 
 Day 29: Loan decisioning criteria discussion, review of technical concepts
 
 Day 30: [Reticulate OCRUG tutorial and meetup](https://github.com/ocrug/presentations/tree/master/2020-01-28_reticulate)
+
+Day 31: Review [Effective Python](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/) for software engineering concepts 
+
+Day 32: Review [Effective Python](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/) for software engineering concepts
+
+Day 33: SQL query optimization - unnest/cross join
+
+Day 34: PCA implementation 6740 HW2
 
 ## Resources
 
