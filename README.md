@@ -79,6 +79,22 @@ Day 33: SQL query optimization - unnest/cross join
 
 Day 34: PCA implementation 6740 HW2
 
+Day 35: PCA implementation 6740 HW2
+
+2/3/20
+
+Day 36: Time series EDA
+
+Day 37: Time series EDA
+
+Day 38: Log transform linear regression 6203 HW1
+
+Day 39: Binary trees
+
+Day 40: Review SQL Theory (Unions and Joins)
+
+
+
 ## Resources
 
 Georgia Tech OMSA Courses - IYSE6740 (Computational Data Analysis), MGT 6203 (Data Analytics for Business)
