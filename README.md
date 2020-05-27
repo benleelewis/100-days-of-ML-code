@@ -61,7 +61,7 @@ Day 25: [Drivetrain Approach](https://www.oreilly.com/radar/drivetrain-approach-
 
 Day 26: [node2vec](https://arxiv.org/pdf/1607.00653.pdf), Spectral Clustering
 
-Day 27: Spectral clustering implementation 6740 HW2,
+Day 27: Spectral clustering implementation 6740 HW2
 
 Day 28: Spectral clustering implementation 6740 HW2, Linear regression with log transformations HW1 6203
 
@@ -93,7 +93,9 @@ Day 39: Binary trees
 
 Day 40: Review SQL Theory (Unions and Joins)
 
+Resumed tracking 5/26 (no one said they had to be consecutive!)
 
+Day 41: Azure Data Factory + Additional Azure cloud configuration 
 
 ## Resources
 
