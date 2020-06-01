@@ -97,6 +97,16 @@ Resumed tracking 5/26 (no one said they had to be consecutive!)
 
 Day 41: Azure Data Factory + Additional Azure cloud configuration 
 
+Day 42: SQL Review/Knowledge Share
+
+Day 43: Efficient Frontier/ROC Curve equivalence in loan decisioning [Beling 2005](https://www.researchgate.net/publication/239386433_Optimal_scoring_cutoff_policies_and_efficient_frontiers)
+
+Day 44: Qlik APIs [qsAPI package](https://github.com/rafael-sanz/qsAPI) POC
+
+Day 45: Azure Data Pipeline review  [Flatten transformations](https://docs.microsoft.com/en-us/azure/data-factory/data-flow-flatten) 
+
+Day 46: Review [Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research](https://www.researchgate.net/publication/276280838_Benchmarking_state-of-the-art_classification_algorithms_for_credit_scoring_An_update_of_research) for SOTA credit scoring classifications 
+
 ## Resources
 
 Georgia Tech OMSA Courses - IYSE6740 (Computational Data Analysis), MGT 6203 (Data Analytics for Business)
